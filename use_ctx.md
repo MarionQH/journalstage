@@ -22,4 +22,5 @@ return 'My awesome Movie!'
 
 It makes working with requests and responses easier by putting all the important information in one place. Depending on the framework, the structure of ctx may vary, but it still will have the same job : ** to represent the context of the current HTTP request and response cycle.**
 
+
 So yes, this is what I learned today ! :)
