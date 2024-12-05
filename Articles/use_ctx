@@ -2,7 +2,7 @@
 
 This is a MD training
 
-## I learned the use of 'ctx' in a AdonisJS project.
+## I learned the use of 'ctx' in a AdonisJS project
 
 While following a lesson on AdonisJS6, when making the routes we had to use the 'ctx' object.
 
@@ -20,6 +20,6 @@ return 'My awesome Movie!'
 
 ### Why is ctx important ?
 
-It makes working with requests and responses easier by putting all the important information in one place. Depending on the framework, the structure of ctx may vary, but it still will have the same job : ** to represent the context of the current HTTP request and response cycle.**
+It makes working with requests and responses easier by putting all the important information in one place. Depending on the framework, the structure of ctx may vary, but it still will have the same job : **to represent the context of the current HTTP request and response cycle.**
 
 So yes, this is what I learned today ! :)
